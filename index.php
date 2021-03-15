@@ -5,6 +5,8 @@
     <title>PHP Learn!!!</title>
 </head>
 <body>
-    <h1>Test</h1>
+    <?php
+        echo 'Hello World!';
+    ?>
 </body>
 </html>
