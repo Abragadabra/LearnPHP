@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>PHP Learn!!!</title>
-</head>
-<body>
-    <?php
+ <?php
         echo 'Hello World!';
-    ?>
-</body>
-</html>
+?>
